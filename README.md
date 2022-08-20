@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kusiLaw
-- 👀 I’m interested in python and javascript
-- 🌱 I’m currently learning react, node , css, saas
-- 💞️ I’m looking to collaborate on python, react, node.js, saas
+- 👋 Hi, I’m Lawrence Kusi Addai
+- 👀 Full-stack developers, Rails enthusiast, part-time guitarist. Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job!"
+- Country: Ghana, Accra.
+- [Portfolio website:](https://kusilaw.github.io/portfolio/)
 - 📫 How to reach me lawcubegsm@gmail.com
 
 <!---
