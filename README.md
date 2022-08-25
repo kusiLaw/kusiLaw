@@ -1,5 +1,5 @@
+![Lawrence Addai Kusi(1)](https://user-images.githubusercontent.com/52538840/186610344-818d1ae7-a4b8-4d89-a185-9ef6e3560672.png)
 
-- 👋 Hi, I’m Lawrence Kusi Addai
 - 👀 Full-stack developers, Rails enthusiast, part-time guitarist. Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job!"
 - Country: Ghana, Accra.
 - [Portfolio website:](https://kusilaw.github.io/portfolio/)
