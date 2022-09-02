@@ -1,7 +1,7 @@
 ![Lawrence Addai Kusi(3)](https://user-images.githubusercontent.com/52538840/186891031-252e1a5f-8f0d-43ff-83af-266f18110b60.gif)
 
 
-- 👀 Full-Stack Software Developers, Rails enthusiast. 
+- 👀 Full-Stack Software Developer. 
 - :+1: Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
 - :house: I am currently a Student at [Microverse](https://www.microverse.org/?grsf=t0fr55)
 - :bolivia: Country: Ghana, Accra.
