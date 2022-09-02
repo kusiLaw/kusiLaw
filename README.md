@@ -2,10 +2,10 @@
 
 
 - 👀 Full-Stack Software Developers, Rails enthusiast. 
-- Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
-- I am currently a Microverse Student. Check out the [course](https://www.microverse.org/?grsf=t0fr55)
-- Country: Ghana, Accra.
-- [Portfolio website:](https://kusilaw.github.io/portfolio/)
+- :+1: Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
+- :house: I am currently a Microverse Student. Check out the [course](https://www.microverse.org/?grsf=t0fr55)
+- :bolivia: Country: Ghana, Accra.
+- :earth_africa: [Portfolio website:](https://kusilaw.github.io/portfolio/)
 - 📫 How to reach me lawcubegsm@gmail.com
 <!---
 kusiLaw/kusiLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
