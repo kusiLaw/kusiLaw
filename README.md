@@ -1,7 +1,9 @@
 ![Lawrence Addai Kusi(3)](https://user-images.githubusercontent.com/52538840/186891031-252e1a5f-8f0d-43ff-83af-266f18110b60.gif)
 
 
-- 👀 Full-stack developers, Rails enthusiast, part-time guitarist. Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job!"
+- 👀 Full-Stack Software Developers, Rails enthusiast. 
+- Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
+- I am currently a Microverse Student. Check out the [course](https://www.microverse.org/?grsf=t0fr55)
 - Country: Ghana, Accra.
 - [Portfolio website:](https://kusilaw.github.io/portfolio/)
 - 📫 How to reach me lawcubegsm@gmail.com
