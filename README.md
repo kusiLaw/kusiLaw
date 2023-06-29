@@ -5,7 +5,7 @@
 - :+1: Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
 - :house: I am currently a Student at [Microverse](https://www.microverse.org/?grsf=t0fr55)
 - :bolivia: Country: Ghana, Accra.
-- :earth_africa: Checkout my portfolio here: [portfolio](https://kusilaw.github.io/portfolio/)
+- :earth_africa: Checkout my portfolio here: [Portfolio](https://porfolio-v2-sf9skusilaw.vercel.app)
 - 📫 How to reach me lawcubegsm@gmail.com
 - 🔥 Fun fact: I have 1+ years of remote work experience with devs from all over the world
 - 🎵 Love soft music 
