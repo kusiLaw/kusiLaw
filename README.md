@@ -3,7 +3,7 @@
 
 - 👀 Full-Stack Developer | Back-end Developer | Front-end Developer. 
 - :+1: Stack: Python, JavaScript, Ruby, Rails, React, Redux. Looking for my next job.
-- :house: completed [Microverse](https://www.microverse.org/?grsf=t0fr55) 
+- :house: Completed [Microverse](https://www.microverse.org/?grsf=t0fr55) 
 - :bolivia: Country: United Kingdom.
 - :earth_africa: Checkout my portfolio here: [Portfolio](https://porfolio-v2-sf9s-kusilaw.vercel.app/)
 - 📫 How to reach me lawcubegsm@gmail.com
