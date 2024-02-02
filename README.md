@@ -5,7 +5,7 @@
 - :bolivia: Country: United Kingdom.
 - :earth_africa: Checkout my portfolio here: [Portfolio](https://porfolio-v2-sf9s-kusilaw.vercel.app/)
 - 📫 How to reach me lawcubegsm@gmail.com
-- 🔥 Fun fact: I have 2+ years of remote work experience with devs from all over the world
+- 🔥 Fun fact: I have 3+ years of remote work experience with devs from all over the world
 - 🎵 Love music 
 
 
