@@ -6,7 +6,11 @@
 - :earth_africa: Checkout my portfolio here: [Portfolio](https://porfolio-v2-sf9s-kusilaw.vercel.app/)
 - 📫 How to reach me lawcubegsm@gmail.com
 - 🔥 Fun fact: I have 3+ years of remote work experience with devs from all over the world
-- 🎵 Love music 
+- 🎵 Love music
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusiLaw)
+
+
 
 
 
